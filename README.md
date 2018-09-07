@@ -1,1 +1,1 @@
-Environment for most projects
+Environments for most projects
